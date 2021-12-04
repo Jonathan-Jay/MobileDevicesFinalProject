@@ -1,10 +1,17 @@
 {
-  "posts": [
+  "leaderboard": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "username": "hello"
+    },
+    
+      {
+      "id": 2,
+      "username": "bob"
+    },
+    
   ],
+  
   "profile": {
     "name": "typicode"
   }
