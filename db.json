@@ -1,17 +1,8 @@
 {
-  "users": [
+  "message": [
     {
-      "id": 1,
-      "username": "hello"
-    },
-    {
-      "id": 2,
-      "username": "bob"
-    },
-    {
-      "id": 3,
-      "username": "david"
-    },
+      "title": "Welcome back to the factory!"
+    }
   ],
   "profile": {
     "name": "typicode"
