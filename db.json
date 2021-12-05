@@ -2,8 +2,16 @@
   "users": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "username": "hello"
+    },
+    {
+      "id": 2,
+      "username": "bob"
+    },
+    {
+      "id": 3,
+      "username": "david"
+    },
   ],
   "profile": {
     "name": "typicode"
