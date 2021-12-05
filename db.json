@@ -2,12 +2,9 @@
   "users": [
     {
       "id": 1,
-      "username": "hello"
-    },
-
-    
+      "title": "hello"
+    }
   ],
-  
   "profile": {
     "name": "typicode"
   }
