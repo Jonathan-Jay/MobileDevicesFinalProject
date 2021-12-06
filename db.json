@@ -1,10 +1,5 @@
 {
-  "message": [
-    {
-      "title": "Welcome back to the factory!"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "Bonus": {
+    "Country": "Canada"
   }
 }
