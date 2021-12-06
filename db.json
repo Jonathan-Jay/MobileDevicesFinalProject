@@ -3,6 +3,10 @@
     {
     "Country": "Canada",
     "Reward": 3600
-    }
+    },
+    {
+    "Country": "United States",
+    "Reward": 1800
+    },
    ]
 }
